@@ -1,0 +1,13 @@
+{
+  "name": "c-parser-studio-backend",
+  "version": "1.0.0",
+  "description": "Backend API service for C Parser Studio",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["c-parser", "flex", "bison", "compiler-design", "ast"],
+  "author": "Compiler Design Lab",
+  "license": "MIT"
+}
+

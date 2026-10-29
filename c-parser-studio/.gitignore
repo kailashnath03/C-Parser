@@ -1,0 +1,17 @@
+# C Parser Studio - .gitignore
+
+# ---- Build artifacts ----
+parser/cparser
+parser/cparser.exe
+parser/*.o
+parser/parser.tab.c
+parser/parser.tab.h
+parser/lex.yy.c
+parser/parser.output
+
+# ---- Editor temporaries ----
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
